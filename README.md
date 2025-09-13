@@ -1,6 +1,19 @@
 # 💫 About Me:
-👋 Hi there! I'm passionate about blending creativity and technology. Currently, I'm working on a blogging website and diving deeper into web and game development. <br><br> 🌱 Expanding my skills in Godot and learning the intricacies of backend web development.<br>🔭 Always excited to collaborate on game jams and creative projects!<br>💬 Feel free to ask me anything about front-end development and design. I love crafting intuitive and visually appealing user experiences.<br> 🤝 Looking to connect with fellow developers who can guide me in Godot or help with backend development.<br><br>Let's create something amazing together! ❤
+👋 Hi there! I’m a developer passionate about blending creativity, technology, and design. I’ve recently completed projects like:
 
+BlogCube – a full-stack blogging platform using Node.js, Express.js, EJS, and PostgreSQL.
+
+Sunshine Duration Analyzer – a cross-platform app built with React Native (Expo) and FastAPI for real-time visualization.
+
+SurveilXpert – an AI-powered surveillance system using YOLOv8, FaceNet, YAMNet, TensorFlow, and PyTorch.
+
+🌱 Currently, I’m expanding my skills in backend development and exploring game development with Godot, after gaining hands-on Unity experience.
+💻 Skilled in frontend (HTML, CSS, JavaScript ES6, React.js, React Native), backend (Node.js, Express.js, FastAPI), and databases (SQL, PostgreSQL), with a strong interest in AI/ML applications.
+
+🔭 Open to collaborating on web apps, AI/ML projects, or game jams.
+🤝 Excited to connect with fellow developers for knowledge sharing and creative collaborations.
+
+✨ Let’s build something impactful together!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jinashginachandran) 
